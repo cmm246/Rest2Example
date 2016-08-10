@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/home/chung/AndroidStudioProjects/Rest2Example/app/src/main/res/values/strings.xml
+/home/chung/AndroidStudioProjects/Rest2Example/app/src/main/java/com/example/chung/rest2example/Config.java
+
