@@ -5,5 +5,7 @@ External libraries used include:
 -Retrofit (need to be upgraded to Retrofit 2.0)
 -Sectioned RecyclerView by project https://github.com/luizgrp/SectionedRecyclerViewAdapter
 -Facebook SDK
--SoundCloud API
+-SoundCloud api
+
+![alt text](screenshots/facebooklogin.png "facebook")  ![alt text](screenshots/Rest2Example.png "facebook")
 
